@@ -1,0 +1,3 @@
+2023-07-24T08:16:52+00:00 ERROR Error creating Stripe webhook. Mode: live. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+2023-07-24T08:16:53+00:00 ERROR Error creating Stripe webhook. Mode: test. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+2023-07-24T09:10:31+00:00 INFO Stripe payment form enabled for Link integration compatibility

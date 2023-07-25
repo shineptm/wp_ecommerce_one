@@ -1,0 +1,12 @@
+2023-07-24T11:11:09+00:00 CRITICAL syntax error, unexpected token "<" in C:\xampp8.1\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1637
+
+2023-07-24T11:12:25+00:00 CRITICAL syntax error, unexpected token "<" in C:\xampp8.1\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1637
+
+2023-07-24T11:13:09+00:00 CRITICAL syntax error, unexpected token "<" in C:\xampp8.1\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1637
+
+2023-07-24T11:22:18+00:00 CRITICAL syntax error, unexpected token "echo" in C:\xampp8.1\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1638
+
+2023-07-24T12:02:34+00:00 CRITICAL syntax error, unexpected token "echo" in C:\xampp8.1\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1638
+
+2023-07-24T12:02:42+00:00 CRITICAL syntax error, unexpected token "." in C:\xampp8.1\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1638
+
